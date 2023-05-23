@@ -12,7 +12,7 @@ defaults:
   max_grad_norm: 2.0
   save_total_limit: 4
   optimizer_name: adamw
-  output_dir: saved_model
+  # output_dir: saved_model
 
 llama:
   learning_rate: 5e-5

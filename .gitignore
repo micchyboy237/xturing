@@ -11,6 +11,8 @@ __pycache__/
 *.pt
 *_weights/
 *.bin
+# examples/openai_dataset/data/
+# examples/openai_dataset/data_ph/
 
 # C extensions
 *.so
