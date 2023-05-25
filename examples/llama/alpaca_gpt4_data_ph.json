@@ -220,7 +220,7 @@
     "output": "Bagaman totoo na ang isang mole ay isang hayop na nabubuhay sa ilalim ng lupa, ang depinisyon na ito ay hindi kumpleto at maaaring maunawaan nang mali dahil hindi sapat na naglalarawan ng katangian o pang-biyolohikal na klasipikasyon nito. Ang mga mole ay kasapi ng pamilya ng mga mammal na tinatawag na Talpidae, at sila ay mga maliit, nagbabalugbog, at kumakain ng mga insekto. Kinakilala sila sa kanilang mga nakalabas na katawan, maikling mga paa, at maliit na mga mata at tainga. Ang depinisyon ay hindi rin nagtutukoy sa hayop mula sa kemikal na terminong mole, na tumutukoy sa isang yunit ng pagsukat na ginagamit sa kemistriya. Dahil dito, ang ibinigay na depinisyon ng isang mole ay hindi ganap na wasto o malinaw na naglalarawan."
   },
   {
-    "instruction": "Nakalagay sa baryabol na x ang formula na \"4x + 2y = 10\". Ano ang halaga ng x?",
+    "instruction": "Nakalagay sa variable na x ang formula na \"4x + 2y = 10\". Ano ang halaga ng x?",
     "input": "",
     "output": "Bigyan ng equation na 4x + 2y = 10, mayroong walang katapusang solusyon para sa halaga ng x, depende sa halaga ng y. Sa ibang salita, ang halaga ng x ay depende sa halaga ng y.\n\nGayunpaman, posible pa rin na ipahayag ang x sa mga termino ng y. Gawin ito sa pamamagitan ng pagrerearrange sa equation upang malutas ang x:\n\n4x + 2y = 10\n4x = 10 - 2y\nx = (10 - 2y)/4\n\nKaya ayon sa equation, ang halaga ng x ay (10 - 2y)/4. Hindi posible na malaman ang eksakto o tiyak na halaga ng x kung hindi alam ang partikular na halaga ng y."
   },
