@@ -19,6 +19,6 @@ def split_json_file(input_file, output_prefix, limit):
 
 input_file = 'examples/llama/alpaca_gpt4_data.json'
 output_prefix = 'examples/openai_dataset/data/split'
-limit = 5
+limit = 20
 
 split_json_file(input_file, output_prefix, limit)

@@ -39,3 +39,4 @@ input_jsonl_path = os.path.abspath('examples/openai_dataset/data_ph')
 output_json_path = os.path.abspath('examples/openai_dataset/data_ph')
 
 convert_jsonl_files_to_json(input_jsonl_path, output_json_path)
+

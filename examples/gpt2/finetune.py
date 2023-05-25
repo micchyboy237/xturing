@@ -8,11 +8,16 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 def finetune():
     instruction_dataset = InstructionDataset("../llama/alpaca_gpt4_data")
-    model_path = "./gpt2_weights"
+    model_path = "./saved_model"
 
-    # Load the model
-    print(f'Load the model')
-    model = BaseModel.load(model_path)
+    if os.path.exists(model_path):
+        # Load the model
+        print(f'Load existing weights')
+        model = BaseModel.load(model_path)
+    else:
+        # Initialize the model
+        print(f'Initialize the model')
+        model = BaseModel.create("llama_lora")
 
     # Finetuned the model
     print(f'Finetune the model')

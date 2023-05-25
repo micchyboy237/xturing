@@ -1,102 +1,302 @@
 [
-    {
-      "instruction": "Magbigay ng tatlong tip para manatiling malusog.",
-      "input": "",
-      "output": "1. Kumain ng balanse at masustansiyang pagkain: Siguraduhin na ang iyong mga pagkain ay naglalaman ng iba't ibang prutas at gulay, lean protein, buong butil, at malusog na taba. Ito ay nakakatulong na magbigay sa iyong katawan ng mahahalagang nutrients upang gumana ito sa pinakamahusay na paraan at makatulong na maiwasan ang mga chronic na sakit.\n\n2. Makibahagi sa regular na pisikal na aktibidad: Mahalaga ang ehersisyo para sa pagpapanatili ng malakas na mga buto, kalamnan, at cardiovascular na kalusugan. Layunin para sa hindi bababa sa 150 minuto ng moderate aerobic exercise o 75 minuto ng masigasig na ehersisyo bawat linggo.\n\n3. Kumuha ng sapat na tulog: Ang pagkakaroon ng sapat na kalidad na tulog ay mahalaga para sa pisikal at mental na kagalingan. Ito ay tumutulong sa regulasyon ng mood, pagpapabuti ng cognitive function, at suporta sa malusog na paglaki at immune function. Layunin para sa 7-9 oras ng tulog bawat gabi."
-    },
-    {
-      "instruction": "Ano ang tatlong pangunahing kulay?",
-      "input": "",
-      "output": "Ang tatlong pangunahing kulay ay pula, asul, at dilaw. Tinatawag ang mga kulay na ito na pangunahing dahil hindi sila nilikha sa pamamagitan ng paghahalo ng ibang kulay at maaaring gawin ang lahat ng iba pang kulay sa pamamagitan ng pagsasama-sama nila sa iba't ibang proporsyon. Sa sistemang additive color, na ginagamit para sa ilaw, ang mga pangunahing kulay ay pula, berde, at asul (RGB)."
-    },
-    {
-      "instruction": "Iilarawan ang istraktura ng isang atom.",
-      "input": "",
-      "output": "Ang isang atom ay ang pangunahing building block ng lahat ng bagay at binubuo ng tatlong uri ng mga partikulo: proton, neutron, at elektron. Ang istraktura ng isang atom ay maaaring ilarawan bilang isang nucleus sa sentro na pinaliligiran ng isang cloud ng mga elektron.\n\nAng nucleus ng isang atom ay binubuo ng proton at neutron. Ang mga proton ay positibo na may charged na mga partikulo at ang neutron ay neutral na mga partikulo na walang charge. Ang parehong mga partikulo na ito ay matatagpuan sa nucleus ng atom, na nasa sentro ng atom at naglalaman ng karamihan sa masa ng atom.\n\nPinaliligiran ng nucleus ng atom ang isang cloud ng mga elektron. Ang mga elektron ay negatibo na may charged na mga partikulo na nasa constant na galaw sa paligid ng nucleus. Ang cloud ng elektron ay hinahati sa mga shell o orbital, at ang bawat shell ay maaaring maghawak ng tiyak na bilang ng mga elektron. Ang bilang ng mga elektron sa pinakalabas na shell, na tinatawag na valence shell, ay nagdedetermina ng kemikal na mga katangian ng atom. \n\nSa isang neutral na atom, ang bilang ng mga proton sa nucleus ay katumbas ng bilang ng mga elektron sa cloud ng elektron, kaya ang positibo at negatibo na mga charge ay nagbabalanse at walang kabuuang charge ang atom. Ang bilang ng mga proton, na tinatawag din na atomic number, ay nagdedetermina kung anong elemento ang atom."
-    },
-    {
-      "instruction": "Paano natin mababawasan ang polusyon sa hangin?",
-      "input": "",
-      "output": "May ilang paraan para mabawasan ang polusyon sa hangin, kabilang ang:\n\n1. Bawasan ang konsumo ng enerhiya: Sa pamamagitan ng pagtitipid ng enerhiya, nababawasan natin ang dami ng polusyon na nagmumula sa mga power plant. Ang ilang mga paraan para makamit ito ay: paggamit ng mga energy-efficient na appliances at lighting, pagiinsulate ng mga bahay, at pagpapatay ng mga ilaw at electronics kapag hindi ginagamit.\n\n2. Gamitin ang pampublikong transportasyon o carpool: Ang mga kotse at trak ay pangunahing pinagmumulan ng polusyon. Sa pamamagitan ng paggamit ng pampublikong transportasyon, carpooling o pagbibisikleta, maaari kang magbawas ng bilang ng mga kotse sa kalsada, na sa gilid naman ay nagbabawas ng mga emission.\n\n3. Maging responsable sa basura: Kapag nasusunog o nabubulok ang basura, maaari nilang palabasin ang mga nakakasama na gas sa hangin. Itapon nang tama ang nakakasamang basura at i-recycle ang mga materyales tulad ng plastic, papel, at salamin kung posible.\n\n4. Suportahan ang malinis na mga pinagkukunan ng enerhiya: Ang mga renewable na pinagkukunan ng enerhiya tulad ng solar at wind power ay nagbubuo ng kaunti o walang polusyon. Suportahan ang mga kompanya at proyekto ng malinis na enerhiya, at isaalang-alang ang pag-install ng renewable energy systems sa iyong tahanan.\n\n5. Magmaneho ng maayos: Kung kailangan mong magmaneho, siguraduhin na maayos ang kondisyon ng iyong sasakyan at magmaneho ng maayos sa pamamagitan ng pag-iwas sa mabilis na acceleration at braking, at pagbabawas ng idle time.\n\n6. Maging mapanuri sa mga pagpipilian ng produkto: Ang ilang mga produkto at praktis ay nagpapalabas ng mas maraming polusyon kaysa sa iba. Pumili ng mga produkto na may eco-friendly na packaging at subukan na bawasan ang iyong paggamit ng aerosol sprays, na maaaring magpalabas ng nakakasamang kemikal sa hangin."
-    },
-    {
-      "instruction": "Ilarawan ang isang oras kung kailan kinailangan mong gumawa ng isang mahirap na desisyon.",
-      "input": "",
-      "output": "Bilang isang AI assistant, wala akong sariling personal na mga karanasan o pisikal na pag-iral. Gayunpaman, ako ay naka-programa na gumawa ng mga desisyon batay sa mga algorithm, logic, at data. May mga oras na nakakasalamuha ko ang isang sitwasyon kung saan ang paggawa ng desisyon ay mahirap dahil maaaring mayroong salungat na impormasyon o maraming posibleng mga kahihinatnan. Sa mga ganitong kaso, ginagamit ko ang aking kakayahang mag-analisa at timbangin ang mga panganib at benepisyo ng bawat opsyon at magkaroon ng konklusyon na pinaka-malamang na makamit ang ninanais na resulta."
-    },
-    {
-      "instruction": "Tukuyin ang hindi katulad sa mga iba.",
-      "input": "Twitter, Instagram, Telegram",
-      "output": "Ang hindi katulad sa mga iba ay ang Telegram. Ang Twitter at Instagram ay mga social media platform na pangunahin para sa pagbabahagi ng impormasyon, mga larawan at mga video habang ang Telegram ay isang cloud-based na serbisyo ng instant messaging at voice-over-IP."
-    },
-    {
-      "instruction": "Ipaliwanag kung bakit ang sumusunod na fraksyon ay katumbas ng 1/4",
-      "input": "4/16",
-      "output": "Ang fraksyon na 4/16 ay katumbas ng 1/4 dahil ang parehong mga fraksyon ay nagrerepresenta ng parehong halaga. Ang isang fraksyon ay maaaring pinapayak sa pamamagitan ng paghahati ng numerator at denominator sa isang karaniwang salik. Sa kaso na ito, ang 4 ay isang karaniwang salik ng parehong numerator at denominator ng 4/16. Kapag hinati natin pareho sa 4, nakukuha natin ang 4/4 = 1 at 16/4 = 4, kaya ang pinapayak na fraksyon ay 1/4. Sa kabilang banda, maaari rin nating isipin ito sa mga termino ng pagkakarami. Halimbawa, kung pinarami natin ang numerator at denominator ng fraksyon na 1/4 sa 4, makukuha natin ang (1x4)/(4x4), o 4/16. Dahil ang parehong fraksyon ay maaaring makuha mula sa isa't isa sa pamamagitan ng pagkakarami o paghahati sa parehong bilang, kinakatawan nila ang parehong halaga at sila ay magkatumbas."
-    },
-    {
-      "instruction": "Sumulat ng maikling kwento sa pangatlong panauhan tungkol sa isang protagonista na kailangang gumawa ng isang mahalagang desisyon sa kanyang karera.",
-      "input": "",
-      "output": "Si Sophie ay nakaupo sa kanyang mesa, titig na titig sa computer screen. Ang kanyang isipan ay naglalakbay habang sinusuri niya ang mga opsyon sa harap niya. Inaalok siya ng promosyon sa isang matataas na posisyon ng pamamahala sa loob ng kanyang kompanya, ngunit nangangahulugan ito ng paglipat sa buong bansa at pag-iwan sa kanyang mga kaibigan at pamilya. Kasabay nito, ang kanyang pangarap na trabaho sa isang kalabang kompanya ay sa wakas ay nagbukas, at siya ay inimbitahan para sa isang interview. \n\nAng kaisipan ng pag-iwan sa kanyang kumportableng buhay, upang subukan ang isang bagong at hindi tiyak na bagay, ay nagdudulot ng kaba kay Sophie, ngunit may kasamang excitement. Siya ay laging handang sumugal, at ito ay nagbubunga sa nakaraan. Ngunit ngayon, mayroong ganito kalaking desisyon na dapat gawin, hindi maiiwasang maging labis na nababahala si Sophie.\n\nMatapos ang maraming pagsusuri, ginawa ni Sophie ang kanyang desisyon. Inimpake niya ang kanyang mga bag, nagpaalam sa kanyang mga mahal sa buhay, at lumipat sa ibang bahagi ng bansa para sa bagong trabaho. Ito ay isang mahirap na unang ilang buwan, pag-aaklima sa isang bagong lungsod at isang bagong kultura ng kompanya. Ngunit habang lumilipas ang panahon, napagtanto ni Sophie na nagawa niya ang pinakamabuting desisyon para sa kanyang karera. Ang trabaho ay mahirap, ngunit kapwa matagumpay, at siya ay napapaligiran ng mga kasamahang puno ng pagsisikap at determinasyon na nagbibigay inspirasyon sa kanya na lumaki at magpatuloy.\n\nSa huli, nagbunga ang matapang na hakbang ni Sophie. Siya ay umuunlad sa kanyang bagong papel, at nakakagawa ng mga bagong kaibigan at koneksyon sa kanyang bagong lungsod. Sa pagtingin pabalik, nagpapasalamat si Sophie para sa pagkakataon na sumugal at gumawa ng pagbabago, at kumpiyansa na nagawa niya ang tamang desisyon para sa kanyang karera."
-    },
-    {
-      "instruction": "Gumawa ng 3D model ng isang bahay",
-      "input": "",
-      "output": "Nais kong lumikha ng isang 3D model para sa iyo! Gayunpaman, ako ay isang AI language model at wala akong mga kailangang tool para lumikha ng mga visual na modelo. Maaari kang subukan na gumamit ng software ng pagmomodelo tulad ng Blender, SketchUp o AutoCAD upang lumikha ng iyong 3D model. Kung hindi mo alam kung paano magsimula, maaari kang makahanap ng maraming online na mga tutorial upang gabayan ka sa proseso."
-    },
-    {
-      "instruction": "Suriin ang pangungusap na ito para sa mga pagkakamaling pagbabaybay at gramatika",
-      "input": "He finnished his meal and left the resturant",
-      "output": "Mayroong dalawang pagkakamali sa pagbabaybay sa pangungusap. Ang tama dapat ay: \"He finished his meal and left the restaurant.\""
-    },
-    {
-      "instruction": "Paano namatay si Julius Caesar?",
-      "input": "",
-      "output": "Si Julius Caesar, ang Romanong Heneral sa Militar, at estadista ay pinaslang noong Marso 15, 44 BC. Sinaksak siya hanggang sa kamatayan sa isang pulong ng Senado sa Theatre of Pompey ng isang grupo ng mga senador na tinatawag nilang mga Liberatores. Pinamunuan ni Gaius Cassius Longinus, at Marcus Junius Brutus, naniniwala sila na ang diktadura ni Caesar ay sumusupil sa Republikang Romano at naglalayong maibalik ang tradisyonal na pamahalaang republikano. Ang eksaktong bilang ng mga salarin ay hindi alam, ngunit pinaniniwalaan na isang grupo ng hanggang sa 60 mga konspirador ang lumahok sa pagpaslang, at bawat isa sa kanila ay nagpalit-palit sa pagsaksak kay Caesar. Ang araw ng kanyang kamatayan ay kilala pa rin bilang mga Ides of March."
-    },
-    {
-      "instruction": "Ano ang kabisera ng France?",
-      "input": "",
-      "output": "Ang kabisera ng France ay Paris."
-    },
-    {
-      "instruction": "Lumikha ng isang listahan ng sampung bagay na maaaring kailanganin ng isang tao para sa isang camping trip",
-      "input": "",
-      "output": "Narito ang sampung bagay na maaaring kailanganin ng isang tao para sa isang camping trip:\n\n1. Tolda - para magbigay ng silungan at proteksyon mula sa mga elemento\n2. Sleeping bag - para manatiling mainit at komportable habang natutulog\n3. Portable stove o campfire grill - para sa pagluluto ng mga pagkain\n4. Cooler na may yelo o ice packs - para manatiling malamig ang mga pagkain at inumin na maaaring masira\n5. Lantern o flashlight - para magbigay ng liwanag sa gabi\n6. First aid kit - para sa mga minor na pinsala o sakit\n7. Mapa at compass o GPS - para sa navigation sa mga hike o paggalugad ng lugar\n8. Camp chairs o folding chairs - para sa komportableng upuan sa paligid ng campsite\n9. Insect repellent - para proteksyonan laban sa mga kagat ng insekto\n10. Sunscreen - para proteksyonan laban sa sunburn."
-    },
-    {
-      "instruction": "Talakayin ang mga sanhi ng Great Depression",
-      "input": "",
-      "output": "Ang Great Depression ay isang panahon ng pagbagsak ng ekonomiya na umabot mula 1929-1939, ginagawa itong pinakamatagal na pagbagsak sa modernong kasaysayan. Hindi lamang ito nakaimpluwensya sa Estados Unidos kundi pati rin sa mga bansa sa buong mundo, nagdulot ito ng malawakang pagbabago sa lipunan at ekonomiya.\n\nMayroong ilang pangunahing sanhi ng Great Depression, na kinabibilangan ng:\n\n1. Pagbagsak ng Stock Market noong 1929 - Noong Oktubre ng 1929, ang stock market ay nakaranas ng malaking pagkahulog na nagtanggal sa milyun-milyong mga investor. Ang pangyayaring ito ay itinuturing ng marami bilang ang unang trigger ng Great Depression.\n\n2. Sobrang Produksyon - Sa panahon ng mga 1920s, maraming industriya ang nagproduce ng higit na maraming kalakal kaysa sa gusto o kayang bilhin ng mga konsyumer. Sa huli, humantong ito sa pagbaba ng demand sa mga kalakal, nagdulot ng pagkawala ng trabaho, mababang sahod, at kabiguan ng negosyo.\n\n3. Mataas na Taripa at Utang ng Digmaan - Ang mga patakarang pangkalakalan na proteksyonista sa anyo ng mataas na taripa ay humantong sa pagbaba ng global na kalakalan, dahil ang ibang bansa ay gumanti rin ng kanilang mga taripa. Dagdag pa, maraming bansa ang nahihirapan na magbayad ng utang ng digmaan, na nagdulot ng ekonomikong hindi stabil.\n\n4. Pagbagsak ng mga Bangko - Habang bumababa ang demand sa mga kalakal, maraming bangko ang nagsimulang mabigo, nagdulot ng kawalan ng kumpiyansa sa sistemang pang-bangko. Ito ay humantong sa malawakang pag-withdraw ng pera mula sa mga bangko, na nagdulot pa ng higit na pagbagsak ng mas maraming bangko.\n\n5. Kondisyon ng Tagtuyot - Ang Dust Bowl ay isang malalang tagtuyot at dust storm na tumama sa Great Plains region ng Estados Unidos noong mga 1930s. Ito ay may malaking epekto sa agrikultura, nagdulot sa maraming magsasaka na mawalan ng kanilang lupa at kabuhayan na pinalala pa ang epekto ng depression.\n\nSa kabuuan, ang Great Depression ay sanhi ng kombinasyon ng mga kadahilanan, kasama na ang mga kadahilanang pang-ekonomiya, pangkapaligiran, at pangpolitika. Ang epekto nito ay malawak, nakakaapekto sa milyun-milyong tao sa buong mundo."
-    },
-    {
-      "instruction": "I-classify ang mga sumusunod sa mga hayop, halaman, at mga mineral",
-      "input": "Oak tree, copper ore, elephant",
-      "output": "Hayop: Elephant\nHalaman: Oak tree\nMineral: Copper ore"
-    },
-    {
-      "instruction": "Ipaliwanag ang paggamit ng word embeddings sa Natural Language Processing",
-      "input": "",
-      "output": "Ang word embeddings ay isang uri ng teknik ng natural language processing na ginagamit upang i-map ang mga salita o parirala mula sa isang bokabularyo patungo sa mga vector ng tunay na numero. Ang ideya ay para i-representa ang mga salita sa isang tuluy-tuloy na vector space, kung saan ang pagkakapareho ng mga salita ay masusukat sa pamamagitan ng distansya sa pagitan ng kanilang kaukulang mga vector. Maaaring magawa ito gamit ang mga algoritmo tulad ng Word2Vec o GloVe, at iba pa.\n\nAng paggamit ng word embeddings ay nag-rebolusyon sa larangan ng Natural Language Processing, dahil pinapayagan nito ang mga computer na maunawaan ang teksto sa isang mas meaningful na paraan kaysa sa simpleng pagtingin sa presensya o kawalan ng mga indibidwal na salita. Halimbawa, kapag ginagamit ang word embeddings, maunawaan ng computer na ang mga salitang \"aso\" at \"tuta\" ay malapit na magkaugnay, samantalang ang mga salitang \"aso\" at \"payong\" ay hindi.\n\nGinagamit ang word embeddings sa iba't ibang mga gawain ng NLP, kabilang ang text classification, sentiment analysis, machine translation, named entity recognition, at marami pang iba. Sila ang nagsisilbing batayan para sa maraming advanced na teknik sa pagproseso ng wika, tulad ng deep learning at neural machine translation."
-    },
-    {
-      "instruction": "Ilarawan ang function ng isang computer motherboard",
-      "input": "",
-      "output": "Ang motherboard, na kilala rin bilang mainboard o system board, ay ang sentral na printed circuit board sa isang computer. Ito ang nagsisilbing backbone o pundasyon para sa isang computer, nagkokonekta sa lahat ng iba't ibang mga komponente tulad ng CPU, RAM, storage drives, expansion cards, at peripherals. Ang motherboard ay nagmamahala sa komunikasyon at paglipat ng data sa pagitan ng mga komponenteng ito, na nagpapahintulot sa kanila na magtrabaho nang sama-sama at isagawa ang kanilang itinalagang mga gawain.\n\nKasama rin sa motherboard ang mahalagang circuitry tulad ng power regulation circuit na nagbibigay ng kuryente sa iba't ibang mga komponente, at ang clock generator na nag-synchronize sa operasyon ng mga komponenteng ito. Naglalaman din ito ng BIOS (basic input/output system), na isang firmware na nagkokontrol sa boot process at nagbibigay ng interface para sa pag-configure at pamamahala ng hardware ng computer. Ang iba pang mga feature sa isang motherboard ay maaaring mag-include ng built-in networking, audio, at video capabilities.\n\nSa kabuuan, ang function ng isang computer motherboard ay upang magbigay ng isang platform para sa integration at operasyon ng lahat ng iba't ibang mga komponente na bumubuo sa isang computer, ginagawa itong isang mahalagang bahagi ng anumang computing system."
-    },
-    {
-      "instruction": "I-reverse engineer ang code na ito upang lumikha ng isang bagong bersyon",
-      "input": "def factorialize(num):\n factorial = 1\n for i in range(1, num):\n factorial *= i\n \n return factorial",
-      "output": "Narito ang isang bagong bersyon ng code na nagkakalkula ng factorial ng isang numero gamit ang recursion:\n\ndef factorial(num):\n if num == 0:\n return 1\n else:\n return num * factorial(num-1)"
-    },
-    {
-      "instruction": "Magsulong ng isang etikal na solusyon sa problema ng data privacy",
-      "input": "",
-      "output": "Isang etikal na solusyon sa problema ng data privacy ay ang pagpapatupad ng mas mahigpit na regulasyon at pamantayan na nangangailangan sa mga kumpanya na maging transparente tungkol sa kung paano sila nagkakalap, nagtatago, at gumagamit ng data ng user. Ibig sabihin, kailangang tiyakin ng mga kumpanya na malinaw nilang inilalahad kung anong data ang kanilang kinukuha mula sa mga user, bakit nila kailangan ang data na ito, at kung paano nila planong gamitin ito. Magkakaroon din ang mga user ng karapatan na ma-access, baguhin, at burahin ang kanilang data anumang oras.\n\nDagdag pa, dapat unahin ng mga kumpanya ang pagpapatupad ng robust na mga hakbang sa seguridad upang protektahan ang data ng user mula sa hindi awtorisadong access at mga breach. Kasama rito ang mga hakbang tulad ng encryption, multi-factor authentication, at regular na mga security audit. Sa kaganapan ng isang data breach, dapat managot ang mga kumpanya at dapat ipaalam sa mga apektadong user sa isang mabilis na paraan.\n\nHigit pa rito, dapat mapalakas ang mga user na gumawa ng mga informed na desisyon tungkol sa kanilang data at privacy. Maaring maabot ito sa pamamagitan ng pagpapalawak ng kamalayan tungkol sa data privacy at pagbibigay ng mga tool at resources upang makatulong sa mga indibidwal na mas mahusay na pamahalaan ang kanilang personal na impormasyon online.\n\nSa huli, ang pagtiyak ng data privacy ay isang shared na responsibilidad sa pagitan ng mga kumpanya at mga user. Dapat na nakatuon ang mga kumpanya sa pagprotekta sa data ng user, habang kailangan magpatuloy na aktibo ang mga user sa pagprotekta sa kanilang personal na impormasyon. Sa pamamagitan ng pagtatrabaho nang sama-sama, maaari tayong lumikha ng isang mas ligtas at mas etikal na data landscape."
-    },
-    {
-      "instruction": "Mag-generate ng tatlong pandiwa na may parehong kahulugan ng \"to apologize\"",
-      "input": "",
-      "output": "1. Magpahayag ng pagsisisi\n2. Magpagsisi\n3. Magbayad-tungkol"
-    }
-  ]
+  {
+    "instruction": "Magbigay ng tatlong tip para manatiling malusog.",
+    "input": "",
+    "output": "1. Kumain ng balanse at masustansiyang pagkain: Siguraduhin na ang iyong mga pagkain ay naglalaman ng iba't ibang prutas at gulay, lean protein, buong butil, at malusog na taba. Ito ay nakakatulong na magbigay sa iyong katawan ng mahahalagang nutrients upang gumana ito sa pinakamahusay na paraan at makatulong na maiwasan ang mga chronic na sakit.\n\n2. Makibahagi sa regular na pisikal na aktibidad: Mahalaga ang ehersisyo para sa pagpapanatili ng malakas na mga buto, kalamnan, at cardiovascular na kalusugan. Layunin para sa hindi bababa sa 150 minuto ng moderate aerobic exercise o 75 minuto ng masigasig na ehersisyo bawat linggo.\n\n3. Kumuha ng sapat na tulog: Ang pagkakaroon ng sapat na kalidad na tulog ay mahalaga para sa pisikal at mental na kagalingan. Ito ay tumutulong sa regulasyon ng mood, pagpapabuti ng cognitive function, at suporta sa malusog na paglaki at immune function. Layunin para sa 7-9 oras ng tulog bawat gabi."
+  },
+  {
+    "instruction": "Ano ang tatlong pangunahing kulay?",
+    "input": "",
+    "output": "Ang tatlong pangunahing kulay ay pula, asul, at dilaw. Tinatawag ang mga kulay na ito na pangunahing dahil hindi sila nilikha sa pamamagitan ng paghahalo ng ibang kulay at maaaring gawin ang lahat ng iba pang kulay sa pamamagitan ng pagsasama-sama nila sa iba't ibang proporsyon. Sa sistemang additive color, na ginagamit para sa ilaw, ang mga pangunahing kulay ay pula, berde, at asul (RGB)."
+  },
+  {
+    "instruction": "Iilarawan ang istraktura ng isang atom.",
+    "input": "",
+    "output": "Ang isang atom ay ang pangunahing building block ng lahat ng bagay at binubuo ng tatlong uri ng mga partikulo: proton, neutron, at elektron. Ang istraktura ng isang atom ay maaaring ilarawan bilang isang nucleus sa sentro na pinaliligiran ng isang cloud ng mga elektron.\n\nAng nucleus ng isang atom ay binubuo ng proton at neutron. Ang mga proton ay positibo na may charged na mga partikulo at ang neutron ay neutral na mga partikulo na walang charge. Ang parehong mga partikulo na ito ay matatagpuan sa nucleus ng atom, na nasa sentro ng atom at naglalaman ng karamihan sa masa ng atom.\n\nPinaliligiran ng nucleus ng atom ang isang cloud ng mga elektron. Ang mga elektron ay negatibo na may charged na mga partikulo na nasa constant na galaw sa paligid ng nucleus. Ang cloud ng elektron ay hinahati sa mga shell o orbital, at ang bawat shell ay maaaring maghawak ng tiyak na bilang ng mga elektron. Ang bilang ng mga elektron sa pinakalabas na shell, na tinatawag na valence shell, ay nagdedetermina ng kemikal na mga katangian ng atom. \n\nSa isang neutral na atom, ang bilang ng mga proton sa nucleus ay katumbas ng bilang ng mga elektron sa cloud ng elektron, kaya ang positibo at negatibo na mga charge ay nagbabalanse at walang kabuuang charge ang atom. Ang bilang ng mga proton, na tinatawag din na atomic number, ay nagdedetermina kung anong elemento ang atom."
+  },
+  {
+    "instruction": "Paano natin mababawasan ang polusyon sa hangin?",
+    "input": "",
+    "output": "May ilang paraan para mabawasan ang polusyon sa hangin, kabilang ang:\n\n1. Bawasan ang konsumo ng enerhiya: Sa pamamagitan ng pagtitipid ng enerhiya, nababawasan natin ang dami ng polusyon na nagmumula sa mga power plant. Ang ilang mga paraan para makamit ito ay: paggamit ng mga energy-efficient na appliances at lighting, pagiinsulate ng mga bahay, at pagpapatay ng mga ilaw at electronics kapag hindi ginagamit.\n\n2. Gamitin ang pampublikong transportasyon o carpool: Ang mga kotse at trak ay pangunahing pinagmumulan ng polusyon. Sa pamamagitan ng paggamit ng pampublikong transportasyon, carpooling o pagbibisikleta, maaari kang magbawas ng bilang ng mga kotse sa kalsada, na sa gilid naman ay nagbabawas ng mga emission.\n\n3. Maging responsable sa basura: Kapag nasusunog o nabubulok ang basura, maaari nilang palabasin ang mga nakakasama na gas sa hangin. Itapon nang tama ang nakakasamang basura at i-recycle ang mga materyales tulad ng plastic, papel, at salamin kung posible.\n\n4. Suportahan ang malinis na mga pinagkukunan ng enerhiya: Ang mga renewable na pinagkukunan ng enerhiya tulad ng solar at wind power ay nagbubuo ng kaunti o walang polusyon. Suportahan ang mga kompanya at proyekto ng malinis na enerhiya, at isaalang-alang ang pag-install ng renewable energy systems sa iyong tahanan.\n\n5. Magmaneho ng maayos: Kung kailangan mong magmaneho, siguraduhin na maayos ang kondisyon ng iyong sasakyan at magmaneho ng maayos sa pamamagitan ng pag-iwas sa mabilis na acceleration at braking, at pagbabawas ng idle time.\n\n6. Maging mapanuri sa mga pagpipilian ng produkto: Ang ilang mga produkto at praktis ay nagpapalabas ng mas maraming polusyon kaysa sa iba. Pumili ng mga produkto na may eco-friendly na packaging at subukan na bawasan ang iyong paggamit ng aerosol sprays, na maaaring magpalabas ng nakakasamang kemikal sa hangin."
+  },
+  {
+    "instruction": "Ilarawan ang isang oras kung kailan kinailangan mong gumawa ng isang mahirap na desisyon.",
+    "input": "",
+    "output": "Bilang isang AI assistant, wala akong sariling personal na mga karanasan o pisikal na pag-iral. Gayunpaman, ako ay naka-programa na gumawa ng mga desisyon batay sa mga algorithm, logic, at data. May mga oras na nakakasalamuha ko ang isang sitwasyon kung saan ang paggawa ng desisyon ay mahirap dahil maaaring mayroong salungat na impormasyon o maraming posibleng mga kahihinatnan. Sa mga ganitong kaso, ginagamit ko ang aking kakayahang mag-analisa at timbangin ang mga panganib at benepisyo ng bawat opsyon at magkaroon ng konklusyon na pinaka-malamang na makamit ang ninanais na resulta."
+  },
+  {
+    "instruction": "Tukuyin ang hindi katulad sa mga iba.",
+    "input": "Twitter, Instagram, Telegram",
+    "output": "Ang hindi katulad sa mga iba ay ang Telegram. Ang Twitter at Instagram ay mga social media platform na pangunahin para sa pagbabahagi ng impormasyon, mga larawan at mga video habang ang Telegram ay isang cloud-based na serbisyo ng instant messaging at voice-over-IP."
+  },
+  {
+    "instruction": "Ipaliwanag kung bakit ang sumusunod na fraksyon ay katumbas ng 1/4",
+    "input": "4/16",
+    "output": "Ang fraksyon na 4/16 ay katumbas ng 1/4 dahil ang parehong mga fraksyon ay nagrerepresenta ng parehong halaga. Ang isang fraksyon ay maaaring pinapayak sa pamamagitan ng paghahati ng numerator at denominator sa isang karaniwang salik. Sa kaso na ito, ang 4 ay isang karaniwang salik ng parehong numerator at denominator ng 4/16. Kapag hinati natin pareho sa 4, nakukuha natin ang 4/4 = 1 at 16/4 = 4, kaya ang pinapayak na fraksyon ay 1/4. Sa kabilang banda, maaari rin nating isipin ito sa mga termino ng pagkakarami. Halimbawa, kung pinarami natin ang numerator at denominator ng fraksyon na 1/4 sa 4, makukuha natin ang (1x4)/(4x4), o 4/16. Dahil ang parehong fraksyon ay maaaring makuha mula sa isa't isa sa pamamagitan ng pagkakarami o paghahati sa parehong bilang, kinakatawan nila ang parehong halaga at sila ay magkatumbas."
+  },
+  {
+    "instruction": "Sumulat ng maikling kwento sa pangatlong panauhan tungkol sa isang protagonista na kailangang gumawa ng isang mahalagang desisyon sa kanyang karera.",
+    "input": "",
+    "output": "Si Sophie ay nakaupo sa kanyang mesa, titig na titig sa computer screen. Ang kanyang isipan ay naglalakbay habang sinusuri niya ang mga opsyon sa harap niya. Inaalok siya ng promosyon sa isang matataas na posisyon ng pamamahala sa loob ng kanyang kompanya, ngunit nangangahulugan ito ng paglipat sa buong bansa at pag-iwan sa kanyang mga kaibigan at pamilya. Kasabay nito, ang kanyang pangarap na trabaho sa isang kalabang kompanya ay sa wakas ay nagbukas, at siya ay inimbitahan para sa isang interview. \n\nAng kaisipan ng pag-iwan sa kanyang kumportableng buhay, upang subukan ang isang bagong at hindi tiyak na bagay, ay nagdudulot ng kaba kay Sophie, ngunit may kasamang excitement. Siya ay laging handang sumugal, at ito ay nagbubunga sa nakaraan. Ngunit ngayon, mayroong ganito kalaking desisyon na dapat gawin, hindi maiiwasang maging labis na nababahala si Sophie.\n\nMatapos ang maraming pagsusuri, ginawa ni Sophie ang kanyang desisyon. Inimpake niya ang kanyang mga bag, nagpaalam sa kanyang mga mahal sa buhay, at lumipat sa ibang bahagi ng bansa para sa bagong trabaho. Ito ay isang mahirap na unang ilang buwan, pag-aaklima sa isang bagong lungsod at isang bagong kultura ng kompanya. Ngunit habang lumilipas ang panahon, napagtanto ni Sophie na nagawa niya ang pinakamabuting desisyon para sa kanyang karera. Ang trabaho ay mahirap, ngunit kapwa matagumpay, at siya ay napapaligiran ng mga kasamahang puno ng pagsisikap at determinasyon na nagbibigay inspirasyon sa kanya na lumaki at magpatuloy.\n\nSa huli, nagbunga ang matapang na hakbang ni Sophie. Siya ay umuunlad sa kanyang bagong papel, at nakakagawa ng mga bagong kaibigan at koneksyon sa kanyang bagong lungsod. Sa pagtingin pabalik, nagpapasalamat si Sophie para sa pagkakataon na sumugal at gumawa ng pagbabago, at kumpiyansa na nagawa niya ang tamang desisyon para sa kanyang karera."
+  },
+  {
+    "instruction": "Gumawa ng 3D model ng isang bahay",
+    "input": "",
+    "output": "Nais kong lumikha ng isang 3D model para sa iyo! Gayunpaman, ako ay isang AI language model at wala akong mga kailangang tool para lumikha ng mga visual na modelo. Maaari kang subukan na gumamit ng software ng pagmomodelo tulad ng Blender, SketchUp o AutoCAD upang lumikha ng iyong 3D model. Kung hindi mo alam kung paano magsimula, maaari kang makahanap ng maraming online na mga tutorial upang gabayan ka sa proseso."
+  },
+  {
+    "instruction": "Suriin ang pangungusap na ito para sa mga pagkakamaling pagbabaybay at gramatika",
+    "input": "He finnished his meal and left the resturant",
+    "output": "Mayroong dalawang pagkakamali sa pagbabaybay sa pangungusap. Ang tama dapat ay: \"He finished his meal and left the restaurant.\""
+  },
+  {
+    "instruction": "Paano namatay si Julius Caesar?",
+    "input": "",
+    "output": "Si Julius Caesar, ang Romanong Heneral sa Militar, at estadista ay pinaslang noong Marso 15, 44 BC. Sinaksak siya hanggang sa kamatayan sa isang pulong ng Senado sa Theatre of Pompey ng isang grupo ng mga senador na tinatawag nilang mga Liberatores. Pinamunuan ni Gaius Cassius Longinus, at Marcus Junius Brutus, naniniwala sila na ang diktadura ni Caesar ay sumusupil sa Republikang Romano at naglalayong maibalik ang tradisyonal na pamahalaang republikano. Ang eksaktong bilang ng mga salarin ay hindi alam, ngunit pinaniniwalaan na isang grupo ng hanggang sa 60 mga konspirador ang lumahok sa pagpaslang, at bawat isa sa kanila ay nagpalit-palit sa pagsaksak kay Caesar. Ang araw ng kanyang kamatayan ay kilala pa rin bilang mga Ides of March."
+  },
+  {
+    "instruction": "Ano ang kabisera ng France?",
+    "input": "",
+    "output": "Ang kabisera ng France ay Paris."
+  },
+  {
+    "instruction": "Lumikha ng isang listahan ng sampung bagay na maaaring kailanganin ng isang tao para sa isang camping trip",
+    "input": "",
+    "output": "Narito ang sampung bagay na maaaring kailanganin ng isang tao para sa isang camping trip:\n\n1. Tolda - para magbigay ng silungan at proteksyon mula sa mga elemento\n2. Sleeping bag - para manatiling mainit at komportable habang natutulog\n3. Portable stove o campfire grill - para sa pagluluto ng mga pagkain\n4. Cooler na may yelo o ice packs - para manatiling malamig ang mga pagkain at inumin na maaaring masira\n5. Lantern o flashlight - para magbigay ng liwanag sa gabi\n6. First aid kit - para sa mga minor na pinsala o sakit\n7. Mapa at compass o GPS - para sa navigation sa mga hike o paggalugad ng lugar\n8. Camp chairs o folding chairs - para sa komportableng upuan sa paligid ng campsite\n9. Insect repellent - para proteksyonan laban sa mga kagat ng insekto\n10. Sunscreen - para proteksyonan laban sa sunburn."
+  },
+  {
+    "instruction": "Talakayin ang mga sanhi ng Great Depression",
+    "input": "",
+    "output": "Ang Great Depression ay isang panahon ng pagbagsak ng ekonomiya na umabot mula 1929-1939, ginagawa itong pinakamatagal na pagbagsak sa modernong kasaysayan. Hindi lamang ito nakaimpluwensya sa Estados Unidos kundi pati rin sa mga bansa sa buong mundo, nagdulot ito ng malawakang pagbabago sa lipunan at ekonomiya.\n\nMayroong ilang pangunahing sanhi ng Great Depression, na kinabibilangan ng:\n\n1. Pagbagsak ng Stock Market noong 1929 - Noong Oktubre ng 1929, ang stock market ay nakaranas ng malaking pagkahulog na nagtanggal sa milyun-milyong mga investor. Ang pangyayaring ito ay itinuturing ng marami bilang ang unang trigger ng Great Depression.\n\n2. Sobrang Produksyon - Sa panahon ng mga 1920s, maraming industriya ang nagproduce ng higit na maraming kalakal kaysa sa gusto o kayang bilhin ng mga konsyumer. Sa huli, humantong ito sa pagbaba ng demand sa mga kalakal, nagdulot ng pagkawala ng trabaho, mababang sahod, at kabiguan ng negosyo.\n\n3. Mataas na Taripa at Utang ng Digmaan - Ang mga patakarang pangkalakalan na proteksyonista sa anyo ng mataas na taripa ay humantong sa pagbaba ng global na kalakalan, dahil ang ibang bansa ay gumanti rin ng kanilang mga taripa. Dagdag pa, maraming bansa ang nahihirapan na magbayad ng utang ng digmaan, na nagdulot ng ekonomikong hindi stabil.\n\n4. Pagbagsak ng mga Bangko - Habang bumababa ang demand sa mga kalakal, maraming bangko ang nagsimulang mabigo, nagdulot ng kawalan ng kumpiyansa sa sistemang pang-bangko. Ito ay humantong sa malawakang pag-withdraw ng pera mula sa mga bangko, na nagdulot pa ng higit na pagbagsak ng mas maraming bangko.\n\n5. Kondisyon ng Tagtuyot - Ang Dust Bowl ay isang malalang tagtuyot at dust storm na tumama sa Great Plains region ng Estados Unidos noong mga 1930s. Ito ay may malaking epekto sa agrikultura, nagdulot sa maraming magsasaka na mawalan ng kanilang lupa at kabuhayan na pinalala pa ang epekto ng depression.\n\nSa kabuuan, ang Great Depression ay sanhi ng kombinasyon ng mga kadahilanan, kasama na ang mga kadahilanang pang-ekonomiya, pangkapaligiran, at pangpolitika. Ang epekto nito ay malawak, nakakaapekto sa milyun-milyong tao sa buong mundo."
+  },
+  {
+    "instruction": "I-classify ang mga sumusunod sa mga hayop, halaman, at mga mineral",
+    "input": "Oak tree, copper ore, elephant",
+    "output": "Hayop: Elephant\nHalaman: Oak tree\nMineral: Copper ore"
+  },
+  {
+    "instruction": "Ipaliwanag ang paggamit ng word embeddings sa Natural Language Processing",
+    "input": "",
+    "output": "Ang word embeddings ay isang uri ng teknik ng natural language processing na ginagamit upang i-map ang mga salita o parirala mula sa isang bokabularyo patungo sa mga vector ng tunay na numero. Ang ideya ay para i-representa ang mga salita sa isang tuluy-tuloy na vector space, kung saan ang pagkakapareho ng mga salita ay masusukat sa pamamagitan ng distansya sa pagitan ng kanilang kaukulang mga vector. Maaaring magawa ito gamit ang mga algoritmo tulad ng Word2Vec o GloVe, at iba pa.\n\nAng paggamit ng word embeddings ay nag-rebolusyon sa larangan ng Natural Language Processing, dahil pinapayagan nito ang mga computer na maunawaan ang teksto sa isang mas meaningful na paraan kaysa sa simpleng pagtingin sa presensya o kawalan ng mga indibidwal na salita. Halimbawa, kapag ginagamit ang word embeddings, maunawaan ng computer na ang mga salitang \"aso\" at \"tuta\" ay malapit na magkaugnay, samantalang ang mga salitang \"aso\" at \"payong\" ay hindi.\n\nGinagamit ang word embeddings sa iba't ibang mga gawain ng NLP, kabilang ang text classification, sentiment analysis, machine translation, named entity recognition, at marami pang iba. Sila ang nagsisilbing batayan para sa maraming advanced na teknik sa pagproseso ng wika, tulad ng deep learning at neural machine translation."
+  },
+  {
+    "instruction": "Ilarawan ang function ng isang computer motherboard",
+    "input": "",
+    "output": "Ang motherboard, na kilala rin bilang mainboard o system board, ay ang sentral na printed circuit board sa isang computer. Ito ang nagsisilbing backbone o pundasyon para sa isang computer, nagkokonekta sa lahat ng iba't ibang mga komponente tulad ng CPU, RAM, storage drives, expansion cards, at peripherals. Ang motherboard ay nagmamahala sa komunikasyon at paglipat ng data sa pagitan ng mga komponenteng ito, na nagpapahintulot sa kanila na magtrabaho nang sama-sama at isagawa ang kanilang itinalagang mga gawain.\n\nKasama rin sa motherboard ang mahalagang circuitry tulad ng power regulation circuit na nagbibigay ng kuryente sa iba't ibang mga komponente, at ang clock generator na nag-synchronize sa operasyon ng mga komponenteng ito. Naglalaman din ito ng BIOS (basic input/output system), na isang firmware na nagkokontrol sa boot process at nagbibigay ng interface para sa pag-configure at pamamahala ng hardware ng computer. Ang iba pang mga feature sa isang motherboard ay maaaring mag-include ng built-in networking, audio, at video capabilities.\n\nSa kabuuan, ang function ng isang computer motherboard ay upang magbigay ng isang platform para sa integration at operasyon ng lahat ng iba't ibang mga komponente na bumubuo sa isang computer, ginagawa itong isang mahalagang bahagi ng anumang computing system."
+  },
+  {
+    "instruction": "I-reverse engineer ang code na ito upang lumikha ng isang bagong bersyon",
+    "input": "def factorialize(num):\n factorial = 1\n for i in range(1, num):\n factorial *= i\n \n return factorial",
+    "output": "Narito ang isang bagong bersyon ng code na nagkakalkula ng factorial ng isang numero gamit ang recursion:\n\ndef factorial(num):\n if num == 0:\n return 1\n else:\n return num * factorial(num-1)"
+  },
+  {
+    "instruction": "Magsulong ng isang etikal na solusyon sa problema ng data privacy",
+    "input": "",
+    "output": "Isang etikal na solusyon sa problema ng data privacy ay ang pagpapatupad ng mas mahigpit na regulasyon at pamantayan na nangangailangan sa mga kumpanya na maging transparente tungkol sa kung paano sila nagkakalap, nagtatago, at gumagamit ng data ng user. Ibig sabihin, kailangang tiyakin ng mga kumpanya na malinaw nilang inilalahad kung anong data ang kanilang kinukuha mula sa mga user, bakit nila kailangan ang data na ito, at kung paano nila planong gamitin ito. Magkakaroon din ang mga user ng karapatan na ma-access, baguhin, at burahin ang kanilang data anumang oras.\n\nDagdag pa, dapat unahin ng mga kumpanya ang pagpapatupad ng robust na mga hakbang sa seguridad upang protektahan ang data ng user mula sa hindi awtorisadong access at mga breach. Kasama rito ang mga hakbang tulad ng encryption, multi-factor authentication, at regular na mga security audit. Sa kaganapan ng isang data breach, dapat managot ang mga kumpanya at dapat ipaalam sa mga apektadong user sa isang mabilis na paraan.\n\nHigit pa rito, dapat mapalakas ang mga user na gumawa ng mga informed na desisyon tungkol sa kanilang data at privacy. Maaring maabot ito sa pamamagitan ng pagpapalawak ng kamalayan tungkol sa data privacy at pagbibigay ng mga tool at resources upang makatulong sa mga indibidwal na mas mahusay na pamahalaan ang kanilang personal na impormasyon online.\n\nSa huli, ang pagtiyak ng data privacy ay isang shared na responsibilidad sa pagitan ng mga kumpanya at mga user. Dapat na nakatuon ang mga kumpanya sa pagprotekta sa data ng user, habang kailangan magpatuloy na aktibo ang mga user sa pagprotekta sa kanilang personal na impormasyon. Sa pamamagitan ng pagtatrabaho nang sama-sama, maaari tayong lumikha ng isang mas ligtas at mas etikal na data landscape."
+  },
+  {
+    "instruction": "Mag-generate ng tatlong pandiwa na may parehong kahulugan ng \"to apologize\"",
+    "input": "",
+    "output": "1. Magpahayag ng pagsisisi\n2. Magpagsisi\n3. Magbayad-tungkol"
+  },
+  {
+    "instruction": "Anong ibig sabihin ng DNA?",
+    "input": "",
+    "output": "Ang DNA ay tumatayo para sa Deoxyribonucleic Acid. Ito ang molekula na nagdadala ng mga genetikong tagubilin na ginagamit sa paglaki, pag-unlad, pag-andar, at reproduksyon ng lahat ng nabubuhay na organismo."
+  },
+  {
+    "instruction": "Ihambing at ikumpara ang Cuban Missile Crisis at digmaan sa Vietnam.",
+    "input": "",
+    "output": "Ang Cuban Missile Crisis (1962) at Vietnam War (1955-1975) ay dalawang pangunahing pangyayari sa kasaysayan ng Amerika na naganap sa panahon ng Cold War. Bagaman pareho ang mga pangyayari sa pananatili ng tensyon sa pagitan ng Estados Unidos at mga komunista, mayroon silang ilang pagkakaiba na nagtatakda sa kanilang kaibahan."
+  },
+  {
+    "instruction": "Gumawa ng listahan ng mga random na salita.",
+    "input": "",
+    "output": "Narito ang isang listahan ng sampung random na mga salita: \n\n1. Quibble\n2. Avarice\n3. Embellish\n4. Resonance\n5. Mercurial\n6. Conflagration\n7. Indefatigable\n8. Mischievous\n9. Delineate\n10. Paragon"
+  },
+  {
+    "instruction": "Isulat sa text ang narekord na audio.",
+    "input": "Pagrerekord tungkol sa kasaysayan ng Waterloo",
+    "output": "\"Ang Waterloo ay isang maliit na bayan sa gitnang Belgium na kilala sa kanyang mahalagang papel sa kasaysayan ng Europa. Noong 1815, ito ang lugar ng Labanan ng Waterloo, isang makasaysayang pagkakabanggaan na nagtatakda ng wakas ng pamamahala ni Napoleon Bonaparte bilang Emperador ng Pranses.\n\nAng pinagmulan ng bayan ay maaaring maunawaan mula sa panahon ng mga Romano, kung kailan ito ay isang mahalagang tawiran ng mga pamayanan. Noong Gitnang Panahon, ang Waterloo ay isang maunlad na sentro ng kalakalan at industriya, at kilala sa paggawa ng lana at tela.\n\nSa ika-18 siglo, ito ay naging tanyag na destinasyon para sa mayayamang aristokrasya na naakit sa magandang tanawin at mga spa resort. Ngunit noong ika-19 siglo, ang Waterloo ay magpakailanman nakatatak sa mga talaan ng kasaysayan - noong Hunyo 18, 1815, nagkasagupa ang hukbong Pranses ni Napoleon Bonaparte at ang koalisyon ng mga kapangyarihang Europeo sa mga bukirin sa paligid ng bayan.\n\nAng Labanan ng Waterloo ay isa sa mga pinakamapamuksang at pinakamahalagang labanan sa kasaysayan ng Europa. Ang mga pwersa ng Pranses ay natalo, at si Napoleon ay napilitang mag-exile. Nagtapos ang labanan ng isang kapat ng siglong digmaan sa kontinente, at nagbunsod ng isang yugto ng relative na kapayapaan na tumagal hanggang sa pagsiklab ng Ikalawang Digmaang Pandaigdig.\n\nSa kasalukuyan, ang Waterloo ay isang tahimik na bayan, na may populasyon na humigit-kumulang sa 30,000 katao. Ito ay isang tanyag na destinasyon para sa mga taong interesado sa kasaysayan, na pumupunta upang bisitahin ang lugar ng labanan at ang maraming monumento at museo na nagpapahalaga sa makasaysayang labanan.\""
+  },
+  {
+    "instruction": "Sinu-sino ang pinakasikat na pintor sa mundo?",
+    "input": "",
+    "output": "Ang pamagat ng pinakasikat na pintor sa mundo ay nakasalalay sa personal na opinyon ng bawat isa. Gayunpaman, maraming tao ang itinuturing na si Leonardo da Vinci, isang sikat na alagad ng sining ng Italian Renaissance, bilang isa sa mga pinakasikat na pintor sa buong mundo. Siya ay kilala sa kanyang mga tanyag na likha tulad ng \"Mona Lisa\" at \"The Last Supper.\" Iba pang kilalang pintor na madalas banggitin bilang pinakasikat sa mundo ay sina Vincent van Gogh, Pablo Picasso, at Michelangelo."
+  },
+  {
+    "instruction": "Ipaalam ang konsepto ng cogging torque.",
+    "input": "",
+    "output": "Ang cogging torque ay isang uri ng torque na nagawa mula sa interaksyon sa pagitan ng magnetic field ng stator (ang stationary na bahagi sa isang electric motor o generator) at rotor (ang rotating na bahagi). Ang interaksyong ito ay nagdudulot ng isang magnetic attraction sa pagitan ng stator teeth at rotor poles. Ito ay nagiging sanhi ng hindi pantay na torque, na nagdudulot ng jerky motion ng motor sa halip na smooth rotation.\n\nAng cogging torque ay nakakaranas ng pinakamalaki sa mga motor na mayroong malaking bilang ng turns sa rotor at stator windings at kapag mayroong maliit na air gap sa motor. Ang cogging effect ay maaaring mabawasan sa pamamagitan ng pag-iiba ng posisyon ng stator o rotor slots o sa pamamagitan ng pagpili ng bilang ng stator at rotor slots nang naaayon. Isang tamang disenyo ay nakakabawas ng cogging torque, na nagreresulta sa smooth at continuous rotation."
+  },
+  {
+    "instruction": "Hanapin ang punto ng pagkulo ng tubig.",
+    "input": "",
+    "output": "Ang boiling point ng tubig ay 100 degrees Celsius o 212 degrees Fahrenheit sa karaniwang presyon ng atmospera."
+  },
+  {
+    "instruction": "Salarin ang buhay at pamumuno ng Hari na si Charles II.",
+    "input": "",
+    "output": "Si Haring Charles II ay naging hari ng Inglaterra, Scotland, at Ireland mula 1660 hanggang 1685. Isinilang noong Mayo 29, 1630, siya ay anak ng Haring Charles I at Reina Henrietta Maria. Sa panahon ng panunungkulan ng kanyang ama, nababalot ang Inglaterra sa isang digmaang sibil sa pagitan ng mga royalistang sumusuporta sa monarkiya at ng mga parliamentarians na nais maglimita ng kapangyarihan nito. Sa huli, ang mga parliamentarians, na pinamumunuan ni Oliver Cromwell, ang lumabas na nagtagumpay at si Charles I ay naparusahan noong 1649.\n\nPumunta si Charles II sa pagkakatapon at namuhay sa France at Netherlands. Noong 1660, pagkatapos ng kamatayan ni Cromwell at ng pagbagsak ng Commonwealth government, inimbita si Charles na bumalik sa Inglaterra at ibinalik sa trono.\n\nAng kanyang panunungkulan, na madalas na tinatawag na Restoration, ay naka-marka sa isang panahon ng relasyong kahit na kasaganaan. Inibalik ni Charles ang Simbahang Ingles bilang pambansang simbahan, at nagtrabaho siya upang ipagawa ang bansa pagkatapos ng pinsalang dulot ng mga digmaang sibil. Nagpursige rin siya ng polisiya ng religious tolerance, naglabas ng Declaration of Indulgence noong 1672, na nagbibigay ng kalayaan ng pagsamba sa non-Anglican Protestante.\n\nKilala rin si Charles sa kanyang interes sa agham at sining, at siya ay nagsilbing patron ng Royal Society, isang agham na organisasyon na itinatag noong 1660. Ang kanyang korte ay kilala sa kanyang kasosyalan at hedonismo, at si Charles mismo ay may reputasyon bilang isang womanizer.\n\nSa mga huling taon ng kanyang pamumuno, sumalungat si Charles sa tumaas na oposisyon ng parliament, lalo na sa kanyang pro-Catholic policies at sa kanyang mga pagtatangkang lunggain ang kanilang kapangyarihan. Noong 1678, pinasa ang Test Act, na nangangailangan ng lahat ng mga opisyal na sumumpa laban sa Catholicism, na si Charles ay reluktanteng pinirmahan.\n\nNamayapa si Charles noong Pebrero 6, 1685, at pinalitan ng kanyang kapatid na si James II. Siya ay naalala bilang isang popular at charismatic na hari na nakatulong na ibalik ang pagkakaroon ng katiwasayan sa Inglaterra pagkatapos ng isang panahon ng samu't saring pagsubok."
+  },
+  {
+    "instruction": "Hanapin ang lawak ng isang bilog ayon sa kanyang radius.",
+    "input": "Sugat = 4",
+    "output": "Ang formula upang hanapin ang area ng isang bilog ay A = πr^2, kung saan \"A\" ang area ng bilog at \"r\" ang radius. Kapalit ang ibinigay na halaga ng radius sa formula:\n\nA = π(4^2)\nA = 16π\n\nSamakatuwid, ang area ng bilog na may radius na 4 unit ay 16π square units."
+  },
+  {
+    "instruction": "Tukuyin ang mga linya ng longhitud na naghihiwalay sa Hilagang Amerika at Timog Amerika.",
+    "input": "",
+    "output": "Ang linya ng longitude na naghihiwalay sa Hilagang at Timog America ay ang 77° 00' 0\" o 77°W na kilala rin bilang hangganan ng Panama at Colombia."
+  },
+  {
+    "instruction": "Ipaliwanag ang proseso ng cellular respiration sa mga halaman.",
+    "input": "",
+    "output": "Ang cellular respiration sa mga halamang tanim ay ang proseso sa pag-convert ng glucose sa ATP, isang molekula na ginagamit bilang pangunahing pinagkukunan ng lakas ng mga selula. Ang prosesong ito ay katulad sa mga hayop at kailangan ng iba't-ibang reaksyon ng enzymatic.\n\nSa mga halamang tanim, karaniwang nagaganap ang cellular respiration sa mitochondria, at matatagpuan ito sa tatlong yugto: glycolysis, citric acid cycle (kilala rin bilang Krebs cycle), at ang electron transport chain.\n\nSa glycolysis, ang isang molekula ng glucose ay binabreakdown sa dalawang molekula ng pyruvate. Nagaganap ang prosesong ito sa cytoplasm ng selula at nagpoproduce ng dalawang molekula ng ATP at ng dalawang molecule ng NADH, isang molekula na nagdadala ng mga electrons.\n\nSa susunod na yugto, ang citric acid cycle ay nagaganap sa loob ng mitochondria. Dito, ang dalawang pyruvate molecule na inilalabas ng glycolysis ay pinuputol pa nang mas mabuti para magproduce ng ATP, NADH, at FADH2, isa pang molekula na nagdadala ng electrons.\n\nSa huling yugto, ang electron transport chain ay ginagamit ng NADH at FADH2 molecules na inilalabas ng mga naunang reaksyon para magdala ng mga electrons sa isang hanay ng mga protein complex na nakailalim ng inner membrane ng mitochondrion. Ang mga electrons ay nagpoproduce ng pagpapatakbo ng mga proton sa magkaparehong membrane, na nagdudulot ng gradient na nagtataguyod sa produksyon ng ATP sa pamamagitan ng chemiosmosis.\n\nSa buod, ang cellular respiration sa mga halamang tanim ay isang proseso na nag-aakalang ng pagbreakdown ng glucose upang magproduce ng ATP, na ginagamit bilang pangunahing pinagkukunan ng lakas ng mga selula. Ang prosesong ito ay nagaganap sa mitochondria at kinakailangan ng ilang yugto kasama ang glycolysis, citric acid cycle, at ang electron transport chain."
+  },
+  {
+    "instruction": "Ginagamit ang computer ng estudyante sa pananaliksik.\n\nAng estudyante ay gumagamit ng computer sa pananaliksik.",
+    "input": "Binasa ng kapitan ang balita.",
+    "output": "Nagbasa ang kapitan ng balita."
+  },
+  {
+    "instruction": "Lumikha ng listahan ng mga pang-uri na naglalarawan ng isang taong matapang.",
+    "input": "",
+    "output": "1. Matapang\n2. Walang takot\n3. Malakas ang loob\n4. Bayani\n5. Hindi natatakot\n6. Handa sa laban\n7. Hindi nagpapa-luhod\n8. Hindi nangingimi\n9. Determinadong-determinado\n10. Bayanihan\n11. Palaban\n12. Bayani\n13. Talunin\n14. Matatag ang loob\n15. Buong tapang."
+  },
+  {
+    "instruction": "Bahagi ng konsekuwensya ng deforestation.",
+    "input": "",
+    "output": "Ang deforestation, o ang malawakang pagtanggal ng mga puno sa isang lugar na may kahoy, ay may maraming kahihinatnan na maaaring magkaroon ng malaking epekto sa kalikasan, ekonomiya, at lokal na komunidad. Ilan sa mga kahihinatnan ng deforestation ay ang mga sumusunod:\n\n1. Pagkawala ng biodiversity: Ang mga kagubatan ay tahanan ng iba't ibang uri ng halaman at hayop, karamihan sa mga ito ay umaasa sa kagubatan para sa kanilang kabuhayan. Ang pagtanggal ng malaking bahagi ng mga puno ay maaaring magdulot ng pagkasira ng kanilang tirahan, na nagreresulta sa pagkawala ng biodiversity.\n\n2. Erosyon ng lupa: Ang mga puno at ang kanilang mga sistema ng mga ugat ay tumutulong sa paghawak sa lupa sa lugar at pinipigilan ang erosyon ng lupa. Ang deforestation ay maaaring mag-iwan ng lupa na exposed at mapanganib na maglakip sa pagkakahugang dahil sa kalakas ng ulan o bagyo.\n\n3. Pagbabago ng klima: Ang mga kagubatan ay may mahalagang papel sa pagtutulungan upang pangalagaan ang klima ng mundo sa pamamagitan ng paglalahad ng carbon dioxide. Kapag ang mga puno ay tanggalin, ang stored na carbon dioxide ay ilalabas sa atmospera, nagbibigay ng kontribusyon sa pagbabago ng klima.\n\n4. Pagkawala ng kabuhayan: Maraming katutubo at lokal na komunidad ay umaasa sa mga kagubatan para sa kanilang kabuhayan, gamit ang kahoy para sa panggatong, mga kagamitan sa pagpapatayo, at pagkain. Ang deforestation ay maaaring magkaroon ng napakalaking epekto sa mga komunidad na ito, umaalis sila nang walang mapagkukunan o paraan upang suportahan ang kanilang sarili.\n\n5. Ekonimikong epekto: Ang mga kagubatan ay nagtataglay ng iba't-ibang mahahalagang kayamanan, tulad ng kahoy, papel, at iba pang mga produktong pangkagubatan. Ang deforestation ay maaaring magbawas sa pagkakaroon ng mga kaayusan na ito, na nakakaapekto sa ekonomiya at mga industriya na umaasa sa mga ito.\n\n6. Baha: Ang mga kagubatan ay tumutulong sa pag-absorb at pagbaril ng tubig, inilalayo ang panganib ng pagbaha sa mga kalapit na lugar. Ang deforestation ay maaaring magdagdag sa panganib ng pagbaha, na nagdudulot ng pinsalang makalipatan sa mga bahay, imprastraktura, at mga pananim.\n\nSa pangkalahatan, ang deforestation ay maaaring magkaroon ng malawak na negatibong epekto, na nag-aapekto hindi lamang sa kalikasan kundi pati na rin sa ekonomiya at lokal na komunidad. Mahalaga na maghanap ng mga sapat at makatwirang paraan upang pamahalaan ang mga kayamanan ng kagubatan upang maiwasang ang deforestation at ang kasama nitong mga epekto."
+  },
+  {
+    "instruction": "Gumawa ng plano upang maibsan ang paggamit ng kuryente sa bahay.",
+    "input": "",
+    "output": "1. I-analyze ang kasalukuyang paggamit ng kuryente: Simulan sa pangongolekta ng datos tungkol sa kasalukuyang paggamit ng kuryente sa tahanan, kabilang ang average na buwanang bill, at makilala ang mga kagamitan at aparato na nakakonsumo ng pinakamaraming kuryente.\n\n2. Palitan ang mga hindi epektibong aparato: Mag-upgrade o palitan ang mga lumang kagamitan at aparato na hindi epektibo sa enerhiya sa mga ENERGY STAR-certified na kagamitan na nakakonsumo ng kakaunting kuryente habang nagbibigay pa rin ng parehong layunin.\n\n3. Gamitin ang LED na ilaw: Palitan ang mga tradisyonal na ilaw na may mga di-epektibong LED bulbs, na nakakonsumo ng hanggang 75% na mas kaunting enerhiya at nagtatagal hanggang 25 na mas mahaba.\n\n4. I-unplug ang mga kagamitan kapag hindi ginagamit: Maraming electronic devices tulad ng chargers, TVs, at computers ang nakakonsumo ng enerhiya kahit naka-off na sila. I-unplug ang mga kagamitan kapag hindi ginagamit upang mas mabawasan ang paggamit ng kuryente.\n\n5. Gamitin ang smart power strips: Isama sa pag-iisip ang paggamit ng smart power strips, na nag-a-auto-cut ng enerhiya sa mga kagamitan na hindi ginagamit, upang mas mabawasan ang standby power consumption.\n\n6. Ayusin ang thermostat: Ang pagpapainit at pagpapalamig ay maaaring nakapagtatayo ng kalahati ng kabuuang paggamit ng enerhiya sa tahanan. Ayusin ang thermostat at gumamit ng mga programmable o smart thermostats upang bawasan ang pagpapainit o pagpapalamig kapag walang tao sa bahay, o sa gabi.\n\n7. Maglagay ng weather stripping: Maglagay ng weather stripping sa paligid ng mga pinto at bintana upang maiwasan ang air leaks, na nagpapababa sa paggamit ng heating at cooling systems.\n\n8. Gamitin ang natural lighting: Gumamit ng natural daylight sa abot ng makakaya sa pamamagitan ng pagbukas ng mga blinds at curtains sa araw at iwasan ang paggamit ng artipisyal na ilaw.\n\n9. Promote ang mga energy-saving behaviors: Turuan ang mga kasapi ng tahanan tungkol sa mga habit para makatipid ng enerhiya, tulad ng pagpatay ng ilaw kapag umaalis sa isang silid, pagbabawas ng oras ng pagpapaligo, at pagpapatakbo ng dishwasher at washing machine kapag puno na ito ng damit o pinggan.\n\n10. Mag-monitor ng paggamit ng kuryente sa regular na panahon: Panatilihing nakatutok sa paggamit ng kuryente sa regular na panahon, at gumawa ng kinakailangang pagbabago sa energy-saving plan batay sa mga resulta."
+  },
+  {
+    "instruction": "Mag-ayos ng mga salita sa pangungusap upang makabuo ng wastong gramatikal na pangungusap.",
+    "input": "Mabilis na tumalon ang kayumangging soro.",
+    "output": "Ang kayumangging uwak ay mabilis na tumalon."
+  },
+  {
+    "instruction": "Pag-aralan ang binigay na teksto para sa tono nito.",
+    "input": "Nang malaki ang epekto ng pandemyang COVID-19 sa mundo, at sobrang nagbago ang ating mga buhay.",
+    "output": "Ang tono ng teksto ay seryoso at malungkot. Ang paggamit ng mga termino gaya ng \"malaking epekto,\" \"drastikong pagbabago,\" at \"pandemya\" ay nagpapahiwatig ng seryosong sitwasyon at nagbigay ng pagkabigat at pagkabahala."
+  },
+  {
+    "instruction": "Gamitin ang ibinigay na datos upang malaman ang gitna.",
+    "input": "[Dalawa, tatlo, pito, walo, sampu]",
+    "output": "Upang makahanap ng median ng isang data set, kailangan nating ayusin ang data sa mas maliit hanggang sa pinakamalaki at hanapin ang kalahati na halaga. Sa kasong ito, ang ibinigay na datos ay nakaayos na sa mas maliit hanggang sa pinakamalaki. Dahil mayroong 5 na halaga sa data set, ang median ay ang kalahating halaga, na kung saan ay ang 3rd na halaga. Kaya't ang median ng ibinigay na data set ay 7."
+  },
+  {
+    "instruction": "I will translate the given paragraph into Tagalog.\n\nPapakopya na lang ako ng mga reviews ng produkto na bibilhin ko sa online shop. Mas maganda kasi na malaman ko muna ang feedback ng mga tao sa produktong gusto ko bago ko ito bilhin. Gusto ko rin kasi ng assurance na sulit ang pera ko at hindi ako mabibigo sa pagpili ng produkto. \n\nTranslation: \nMagcocopy na lang ako ng mga review ng produkto bago ko ito bilhin sa online shop. Kailangan kong malaman ang feedback ng ibang tao sa produktong nais ko upang masiguro na sulit ang aking pera.",
+    "input": "Kahit na karaniwan nang tinatanggap na ang internet ay nagpapahintulot sa atin na makaugnay sa mga tao sa buong mundo, mayroon pa rin mga taong hindi pamilyar sa mga pangunahing tungkulin nito, hindi naiintindihan kung bakit ito naging kadalasang ginagamit, o ano ang tunay nitong kakayahan.",
+    "output": "May mga taong hindi nakakaintindi sa mga pangunahing function ng internet, karaniwang gamit at kahalagahan nito, kahit na ito ay may kakayahang mag-ugnay sa atin sa buong mundo."
+  },
+  {
+    "instruction": "Gumawa ng logo para sa isang website tungkol sa recycling.",
+    "input": "",
+    "output": "Upang magdisenyo ng logo para sa isang website tungkol sa pagrerecycle, uumpisahan ko sa pamamagitan ng pag-iisip ng mga konsepto na kumakatawan sa ideya ng pagrerecycle, tulad ng simbolong arrow ng paga-recycle, dahon o puno, at mga kulay na nababagay sa kalikasan.\n\nAng esketso ng logo ay maaaring naglalarawan ng simbolo ng recycling na ginawa sa pamamagitan ng mga luntiang dahon, kasama ang pangalan ng website sa ilalim ng simbolo na may malaking hugis ng font, sa kulay na nababagay sa kalikasan tulad ng mga kulay na luntian o kape. Isa ring opsyon ay gamitin ang isang globo upang kumatawan sa mundo na natatakpan ng mga arrow ng paga-recycle sa magkakabilang dulo nito, sa isang magkasalungat na kulay ng luntian o bughaw.\n\nAng teksto ay dapat naging balanseng at nakakaganda, na malinaw at madaling basahin. Ang ilang mga nais na font ay Sans-serif, tulad ng Montserrat o Open Sans, ngunit magdedepende ito sa pangalan ng website. Ang huling resulta ay dapat na isang malinis, moderno at nakikilalang logo na nagpapakita ng mga halaga ng website tungkol sa pagrerecycle."
+  },
+  {
+    "instruction": "Lumikha ng tula na nagpapahayag ng kasiyahan.",
+    "input": "",
+    "output": "Isang padabog na halakhak, isang patak ng kasiyahan\nMga sandali ng kaligayahan na mahalaga sa ating lahat\nIsang pagtalon ng pananampalataya, ngiti na napakalawak\nIsang damdamin ng init na sumisibol sa loob\n\nAng araw na umaapaw sa ningning, ang kalangitan ay napakalawak\nIsang makulay na mundo, isang kahanga-hangang tanawin\nIsang mahigpit na yakap, isang salitang maginoo\nIsang maligayang puso, isang maligaya at mapayapang isipan\n\nSumasayaw sa ritmo, umaawit nang malakas\nMaging tunay na sarili, magpakatangi-tangi\nYakapin ang mga bagay-bagay na nagpapapakintab sa atin\nAt hayaang ang kaligayahan sa loob mo ay umapaw na parang batis\n\nAng kaligayahan ay isang paglalakbay, hindi isang lugar na dapat mapuntahan\nIsang kalagayan ng isip, hayaang itong lumaya sa kanyang rali\nIpamahagi ang kaligayahan, saan ka man pumunta\nAt ang mundo ay mag-iingay sa isang nakapukaw na ningning."
+  },
+  {
+    "instruction": "I-convert ang nakalagay na equation sa isang algebraic expression.",
+    "input": "3x+5y=9",
+    "output": "Ang ibinigay na equation ay maaring ma-convert sa isang algebraic expression sa pamamagitan ng pag-iisolate ng mga terms na may variables, o sa paglipat ng lahat ng mga terms sa isang side ng equation upang gawin itong pareho sa zero. Narito ang dalawang options:\n\n1. Pag-iisolate ng mga terms na may variables:\n- Maaring ilipat ang constant term sa kanan ng equation, sa pamamagitan ng pagbabawas ng 5y sa parehong side. Ito ay magreresulta sa algebraic expression na ito:\n\n3x = 9 - 5y\n\n- Maari rin nating isolating ang y sa pamamagitan ng paglipat ng mga terms na may kinalaman sa x sa right side ng equation. Sa pagbabawas ng 3x sa parehong side ay magbibigay sa atin ng:\n\n5y = 9 - 3x\n\n2. Paglipat ng lahat ng mga terms sa isang side upang gawing pareho sa zero:\n- Maaring magbawas ng 9 sa parehong side ng equation.\n\nIto ay magbibigay sa algebraic expression na ito: \n3x + 5y - 9 = 0. \n\nSa pangkalahatan, ang orihinal na equation na `3x+5y=9` ay maaring maipahayag sa maraming magkakatulad na mga forms, depende sa mga espesipikong pangangailangan o konteksto."
+  },
+  {
+    "instruction": "Mag-isip ng mga posibleng solusyon upang mabawasan ang polusyon sa tubig.",
+    "input": "",
+    "output": "1. Patawan ng regulasyon ang mga pagpapakawala ng mga industriya: Dapat ipatupad ng mga gobyerno ang mahigpit na regulasyon sa mga industriya upang kontrolin at bawasan ang dami ng kemikal at polusyon na kanilang inilalabas sa mga katawan ng tubig.\n\n2. I-promote ang Eco-Friendly na Agrikultura: Dapat mahikayat ang mga magsasaka na gumamit ng eco-friendly na mga paraan sa agrikultura upang maibsan ang polusyon sa tubig. Maaari itong kasama ang mga hakbang tulad ng pagbawas sa paggamit ng mga pataba at pesticide, at paggamit ng natural na mga paraan sa pagkontrol sa mga peste.\n\n3. Palakasin ang Kamalayan ng Publiko: Dapat magkaroon ng mas mataas na kampanya sa kamalayan ng publiko tungkol sa mga panganib ng polusyon sa tubig at ang mga hakbang na dapat gawin ng mga indibidwal upang maibsan ito. Simple lamang na mga aksyon tulad ng tamang pagtatapon ng mapanganib na household waste, pagbaba ng paggamit ng mga single-use plastic, at pagpapakatipid ng tubig ay makakatulong upang maibsan ang polusyon sa tubig.\n\n4. Mapabuti ang Paglusaw at Paglilinis ng Tubig: Dapat maglaan ng mga pamahalaan sa pagpapabuti ng mga pasilidad sa paglusaw at paglilinis ng tubig upang masiguro na sila ay epektibo sa pagtanggal ng mga kontaminante sa mga basura bago ito ilabas sa mga katawan ng tubig.\n\n5. I-promote ang mga Green Energy: Ang paggamit ng mga pinagmumulan ng green energy tulad ng solar at wind power ay makakapagbawas ng dami ng mga polusyon na inilalabas ng fossil fuels sa mga katawan ng tubig. Dapat maglaan ng mga pamahalaan ng mga insentibo sa mga indibidwal at industriya upang magpalit sa green energy.\n\n6. Bantayan ang Kalidad ng Tubig: Regular na pagbabantay sa kalidad ng tubig sa mga ilog, lawa, at karagatan ay makakatulong upang makilala ang mga pinagmumulan ng polusyon at gawin ang mga tamang hakbang upang maibsan ito.\n\n7. Paglilinis at Pagpapabalik sa Dating Kalagayan: Dapat maglaan ng mga pamahalaan sa paglilinis sa mga polusyon na katawan ng tubig at sa pagpapabalik ng mga dating ecosystem ng mga ito. Maaari itong kasama ang mga hakbang tulad ng pagtanggal ng mga kontaminante, pagtatanim ng mga halaman upang maiwasan ang erosyon, at pagbabalik ng mga katutubong species.\n\n8. Palakasin at Ipapatupad ang Batas sa Kapaligiran: Ang mga mahigpit na batas at regulasyon sa kapaligiran, kasama na ang kanilang striktong ipinatutupad, ay makakatulong upang maibsan ang polusyon sa tubig. Dapat kumilos ang mga pamahalaan upang matiyak na ang mga lumalabag ay parurusahan at ang mga batas ay epektibo sa pagprotekta sa mga yamang-tubig."
+  },
+  {
+    "instruction": "Ipaliwanag kung bakit mali ang ibinigay na kahulugan.",
+    "input": "Ang isang mole o topo ay isang hayop na nakatira sa ilalim ng lupa.",
+    "output": "Bagaman totoo na ang isang mole ay isang hayop na nabubuhay sa ilalim ng lupa, ang depinisyon na ito ay hindi kumpleto at maaaring maunawaan nang mali dahil hindi sapat na naglalarawan ng katangian o pang-biyolohikal na klasipikasyon nito. Ang mga mole ay kasapi ng pamilya ng mga mammal na tinatawag na Talpidae, at sila ay mga maliit, nagbabalugbog, at kumakain ng mga insekto. Kinakilala sila sa kanilang mga nakalabas na katawan, maikling mga paa, at maliit na mga mata at tainga. Ang depinisyon ay hindi rin nagtutukoy sa hayop mula sa kemikal na terminong mole, na tumutukoy sa isang yunit ng pagsukat na ginagamit sa kemistriya. Dahil dito, ang ibinigay na depinisyon ng isang mole ay hindi ganap na wasto o malinaw na naglalarawan."
+  },
+  {
+    "instruction": "Nakalagay sa baryabol na x ang formula na \"4x + 2y = 10\". Ano ang halaga ng x?",
+    "input": "",
+    "output": "Bigyan ng equation na 4x + 2y = 10, mayroong walang katapusang solusyon para sa halaga ng x, depende sa halaga ng y. Sa ibang salita, ang halaga ng x ay depende sa halaga ng y.\n\nGayunpaman, posible pa rin na ipahayag ang x sa mga termino ng y. Gawin ito sa pamamagitan ng pagrerearrange sa equation upang malutas ang x:\n\n4x + 2y = 10\n4x = 10 - 2y\nx = (10 - 2y)/4\n\nKaya ayon sa equation, ang halaga ng x ay (10 - 2y)/4. Hindi posible na malaman ang eksakto o tiyak na halaga ng x kung hindi alam ang partikular na halaga ng y."
+  },
+  {
+    "instruction": "Isulat ang maikling talata tungkol sa ibinigay na paksa.",
+    "input": "Kahalagahan ng paggamit ng renewable energy.",
+    "output": "Ang kahalagahan ng paggamit ng renewableng enerhiya ay hindi dapat maliitin. Maaaring mapalitan ang renewableng mga pinagmumulan ng enerhiya, tulad ng solar, hangin, at hydro power, nang natural at mabilis, kung ihahambing sa fossil fuels na may limitado. Sa paggamit ng renewableng enerhiya, nababawasan ang greenhouse gas emissions na nakatutulong laban sa climate change. Bukod pa rito, nababawasan ang ating pagdedepende sa hindi renewable na mga pinagmumulan ng enerhiya, na nagbibigay ng pagsasarili at seguridad sa enerhiya. Sa katunayan, mas mura ang investasyon sa renewableng enerhiya sa mahabang panahon at maaari rin itong magbigay ng trabaho sa sektor ng green energy. Kaya't mahalaga ang paglilipat sa renewableng enerhiya para sa kalusugan ng planeta at para sa pagpapakatibay ng ating kinabukasan."
+  },
+  {
+    "instruction": "Ipaliwanag ang konsepto ng artificial intelligence sa simpleng paraan.",
+    "input": "",
+    "output": "Ang Artificial Intelligence, o kilala bilang AI, ay ang pagbuo ng mga sistemang kompyuter na kayang mag-perform ng mga gawain na karaniwang kailangan ng human intelligence. Ito ay maaaring maglaman ng pagsasalin ng wika, pagdedesisyon, pagkilala sa visual, pagtanggap ng speech, at kahit na paglalaro ng mga komplikadong board games.\n\nSa mas madaling salita, ang AI ay ang kakayahang magawa ng mga kompyuter at makina ang mga bagay na karaniwang ginagawa ng mga tao tulad ng pagsusuri, pag-iisip, at paglutas ng mga problema. Ito ay nakakamit sa pamamagitan ng pagbuo ng mga algorithm, o mga tuntunin, na nakakatulong sa kompyuter na matuto at gumawa ng mga desisyon batay sa mga datos.\n\nSa pangkalahatan, ang AI ay isang nakakamangha at nakapangyayaring teknolohiya na nagpapahintulot sa mga kompyuter na matuto, mag-adapt at mag-improve sa mga paraan na dati ay iniisip na hindi posible."
+  },
+  {
+    "instruction": "Magdisenyo ng isang app para sa isang kumpanya ng delivery.",
+    "input": "",
+    "output": "Ang aplikasyon ng kumpanya ng delivery ay magbibigay ng epektibong paraan para sa mga kostumer upang pamahalaan ang lahat ng kanilang mga pangangailangan sa delivery sa isang lugar. Narito ang mga pangunahing tampok ng aplikasyong ito:\n\n1. User Account: Ang mga kostumer ay makakagawa ng personal na account upang ma-track ang kanilang mga delivery order at makita ang kasaysayan ng kanilang account. Sa pamamagitan ng account, maaari nilang baguhin ang kanilang personal na impormasyon, mga detalye sa contact, at mga address.\n\n2. Paglalagay ng order: Ang mga kostumer ay maaaring maglagay ng kanilang mga delivery order sa app, sa pamamagitan ng pagpili ng kanilang mga ninanais na item o sa pamamagitan ng pag-upload ng isang imahe ng kanilang listahan ng pamimili. Ang mga order ay maaaring iskedyul para sa partikular na petsa at oras o maglagay ng mga batayan para sa mas madalas na delivery.\n\n3. Real-time tracking: Ang mga kostumer ay maaaring mag-track ng kanilang mga order sa kasalukuyang oras sa isang mapa, kasama ang mga update tungkol sa oras ng kanilang inaasahang pagdating.\n\n4. In-app communication: Ang kostumer ay magkakaroon ng kakayahang makipag-communicate sa delivery driver tungkol sa mga tagubilin sa delivery, iskedyul o mga espesyal na pahiling sa pamamagitan ng isang in-app chat function.\n\n5. Kumpirmasyon ng Delivery: Pagkatapos ng delivery, ang kostumer ay makatanggap ng isang notification, at maaari nilang kumpirmahin ang paghahatid at mag-rate ng serbisyo.\n\n6. Bayad: Ang mga kostumer ay makakapagsama ng kanilang mga nais na paraan ng pagbabayad sa app, tulad ng credit card o sa pamamagitan ng isang mobile payment system, at ang mga transaksyon ay magiging seamless.\n\n7. Suporta sa Kostumer: Ang mga kostumer ay makakapag-access sa help center, kung saan maaari silang mag-ulat ng anumang mga isyu, makakuha ng mga sagot sa kanilang mga tanong, o tumawag ng suporta sa kostumer sa direkta mula sa app.\n\nSa pangkalahatan, magbibigay ang delivery app na ito ng intuitive at gamit na madali sa mga kostumer, na gumagawa sa proseso ng delivery na walang stress at walang abala."
+  },
+  {
+    "instruction": "Sangguniang Kabataan (SK) is a youth council in the Philippines that aims to empower and involve young people in community development and decision-making. It was established in 1991 as a result of the Local Government Code of 1991. Members of the SK are elected by the youth of their respective barangays and their term is three years. The council has various responsibilities such as organizing community events and programs, managing youth facilities and developing proposals for the local government.",
+    "input": "Isang kamakailang pag-aaral ay nagpakita na ang global climate change ay isa sa pinakamahalagang hamon na kinakaharap ng mundo ngayon. Kasama sa mga kahihinatnan ng global warming ay ang pagtaas ng antas ng dagat, mga mapaminsalang pangyayari sa panahon at pagkawala ng biodibersidad. Ang pagbabago ng klima ay dulot ng mga gawain ng tao tulad ng pagsunog ng fossil fuels, at kung hindi ito mapipigilan, magdudulot ito ng mga matagalang masamang epekto sa planeta.",
+    "output": "Isinalaysay sa teksto ang isang pag-aaral na nagbibigay-diin sa kahalagahan ng global climate change bilang isang hamon. Binanggit din ang mga bunsod nito tulad ng pagtaas ng antas ng dagat at pagkawala ng biodiversity. Ang climate change ay sanhi ng ginagawa ng tao at may potensyal na malawakang pinsalang epekto kung hindi ito aaksyunan."
+  },
+  {
+    "instruction": "Bumuo ng mga katotohanan mula sa paragrafo.",
+    "input": "Patuloy na lumalaganap ang edukasyong online para sa mga paaralan at mag-aaral sa buong mundo. Ang mga benepisyo nito ay pangkalahatang mas mababang gastos, mas kaunting obligasyon, at kakayahan na mag-aral sa oras, lugar, at bilis na akma sa mag-aaral.",
+    "output": "1. Dumarami ang nagkakagusto sa online na edukasyon, maging sa mga paaralan at mag-aaral.\n2. Ang mga benepisyo ng online na edukasyon ay kasama ang mas mababang gastos at mas kaunting komitment.\n3. Sa online na edukasyon, maaaring mag-aral ang mga mag-aaral sa anumang oras, lugar, at takbo ng pag-aaral na akma sa kanila."
+  },
+  {
+    "instruction": "Isulat muli ang sumusunod na pangungusap nang maiksi.",
+    "input": "Tumakbo siya papunta sa paradahan ng bus upang masakyan ang bus na dapat darating sa loob ng limang minuto.",
+    "output": "Tumakbo siya patungo sa paradahan ng bus upang mahabol ang darating na bus sa loob ng limang minuto."
+  },
+  {
+    "instruction": "Lumikha ng tula na may 10 linya.",
+    "input": "",
+    "output": "Isang lambak na puno ng mga bulaklak, masiglang at makulay,\nAng kalawakan ng walang hanggang bughaw sa mga mainit na sinag ng araw,\nMga ibon na kumakanta ng mga tula na ganap at tunay,\nAng kagandahan ng kalikasan na sumisibol sa bawat kulay.\n\nAng ungol ng mga dahon sa malumanay na hanging ihip,\nAng pagtatalik ng mga bubuyog, abalang-abala nang parang ikaw rin,\nAng dumadaloy na ilog na may grasya at kaginhawaan,\nLahat ay nagkakaisa sa ganap na pakikipagharmonya.\n\nAng kamangha-manghang nilikha na napakalawak at napakalaki,\nAng tula ng kalikasan na nasa kahulugan ng iyong palad."
+  },
+  {
+    "instruction": "I-convert mula sa Celsius papuntang Fahrenheit.",
+    "input": "Temperatura sa Celsius: 15",
+    "output": "Ang temperatura sa Fahrenheit ay 59.0 degrees. (\u00b0F = \u00b0C * 9/5 + 32)"
+  },
+  {
+    "instruction": "Ayusin ang mga numerong ibinigay sa pagsulong na pagkakasunud-sunod.",
+    "input": "2, 4, 0, 8, 3",
+    "output": "Nangyari sa Tagalog"
+  },
+  {
+    "instruction": "Kalkulahin ang kabuuang sukat ng isang kubyerto na may haba ng gilid na 5 cm.",
+    "input": "",
+    "output": "Kunin ang sukat ng suplay ng kubo sa pamamagitan ng pag-compute ng sukat ng isa sa mga mukha nito at pag-namultiply ng 6 (sapat na dahil mayroong anim na mukha ang isang kubo). Ang sukat ng mukha ng kubo ay ang haba ng isang side squared.\n\nSamakatuwid sa partikular na kubo na ito:\n\nSukat ng Suplay = 6 \u00d7 (Haba ng Side)\u00b2 \n             = 6 \u00d7 (5 cm)\u00b2\n             = 6 \u00d7 25 cm\u00b2\n             = 150 cm\u00b2\n\nAng kabuuang sukat ng suplay ng kubong ito ay 150 square centimeters."
+  },
+  {
+    "instruction": "Ano ang lakas sa isang kalogramong mabigat na sanhi ng lakas pandikit?",
+    "input": "",
+    "output": "Ang lakas sa isang 1 kg na masa dahil sa grabidad ay humigit-kumulang na 9.8 Newtons. Ito ay kinakalkula gamit ang formula na F = mg, kung saan F ay ang lakas, m ay ang masa, at g ay ang pagpapabilis dahil sa grabidad. Ang humigit-kumulang na halaga ng g sa ibabaw ng mundo ay 9.8 m/s^2. Samakatuwid, ang lakas sa isang 1 kg na masa dahil sa grabidad ay 1 kg * 9.8 m/s^2 = 9.8 N."
+  },
+  {
+    "instruction": "Ibigay ang isa pang halimbawa para sa isang kaugalian sa kultura.",
+    "input": "",
+    "output": "Isa sa mga halimbawa ng kultural na kaugalian ay ang tradisyunal na seremonya ng tsaa sa Japan, kilala bilang Chanoyu. Ang seremonya ay naglalaman ng paghahanda at paglilingkod ng matcha, isang pulbos na berdeng tsaa. Ito ay isang ritwal na malalim na nakatanim sa kultura ng Japan at nakatuon sa mga prinsipyo ng harmonya, respeto, kalinisan at katiwasayan. Ang seremonya ay hindi lamang tungkol sa pag-inom ng tsaa, kundi tungkol sa mga estetika at paghahanda ng tsaa, ang pakikipag-ugnayan sa pagitan ng host at ng mga bisita, at ang pagpapahalaga sa kasalukuyang sandali."
+  },
+  {
+    "instruction": "Bigyan ng isang hanay ng mga numero, hanapin ang pinakamalaking halaga.",
+    "input": "Taluktok: {10, 3, 25, 6, 16}",
+    "output": "Ang pinakamalaking halaga sa set na {10, 3, 25, 6, 16} ay 25."
+  },
+  {
+    "instruction": "Bigyan ng dalawang halimbawa ng likido.",
+    "input": "",
+    "output": "Narito ang dalawang halimbawa ng likido:\n\n1. Tubig: Ang tubig ay isang malinaw, walang kulay, at walang amoy na likido na mahalaga sa lahat ng uri ng buhay. Ito ay matatagpuan sa mga lawa, ilog, karagatan, at pati na rin sa ilalim ng lupa.\n\n2. Langis: Ang langis ay isang makapal na likido na nagmumula sa petrolyo. Karaniwan itong ginagamit bilang panggatong o pamasahe sa iba't ibang industriya, tulad ng transportasyon at pagmamanupaktura."
+  },
+  {
+    "instruction": "Ano ang produkto ng 6 at 2?",
+    "input": "",
+    "output": "Ang produkto ng 6 at 2 ay 12."
+  }
+]
